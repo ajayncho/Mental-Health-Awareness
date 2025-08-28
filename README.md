@@ -4,7 +4,7 @@ International Students Mental Health Analysis
 
 This project explores how studying abroad impacts the mental health of international students in Japan. Using SQL, I analyzed a dataset of students surveyed in 2018 to investigate the relationship between length of stay and three mental health indicators: depression (PHQ), social connectedness (SCS), and acculturative stress (AS). The database and analysis were conducted on DataCamp.
 
-🔗 View the project on DataCamp
+🔗 View the project on[ DataCamp](https://bankingirving.my.canva.site/mentalhlthproject)
 
 🛠️ Methods
 

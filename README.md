@@ -20,7 +20,6 @@ AVG() + ROUND() → mean scores (rounded to 2 decimals) for PHQ, SCS, and AS
 
 Sort: Applied ORDER BY to display results in descending order of stay.
 
-Example Query
 SELECT 
     stay AS stay,
     COUNT(inter_dom) AS count_int,
